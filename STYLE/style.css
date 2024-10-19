@@ -1,0 +1,19 @@
+.container{
+    border: 5px solid black;
+    width: 500px;
+    text-align: center;
+    margin: 0px auto;
+}
+
+#counter{
+   
+    font-size: 70px;
+}
+
+button{
+
+    font-size: 45px;
+    padding: 10px 20px;
+    margin: 10px;
+    margin-bottom: 50px;
+}
